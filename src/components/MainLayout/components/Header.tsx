@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            2024: My Awesome Store
+            2024: My Awesome Store of Funny things
           </Link>
         </Typography>
 
