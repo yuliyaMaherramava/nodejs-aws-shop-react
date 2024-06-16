@@ -45,12 +45,5 @@ Runs linting and formatting for all files in `src` folder.
 
 ## Deploy links
 
-Task 2.1:
-
-- S3 bucket (public accessible): http://my-first-bucket-application.s3-website-us-east-1.amazonaws.com/
-- CloudFront : https://d3jh13yq8y8jnb.cloudfront.net
-
-Task 2.2:
-
 - S3 bucket (should return 403 Access Denied error): http://my-sdk-built-website-bucket.s3-website-us-east-1.amazonaws.com/
 - CloudFront: https://dumf7oxcx2xzp.cloudfront.net/
