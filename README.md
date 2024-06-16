@@ -36,3 +36,21 @@ Runs tests in console, in browser or with coverage.
 ### `lint`, `prettier`
 
 Runs linting and formatting for all files in `src` folder.
+
+### `cdk`
+
+- `cdk:bs` Bootstrap your AWS environment for CDK
+- `cdk:deploy` Deploy to your default AWS account/region
+- `cdk:destroy` Remove CDK stacks and associated resources
+
+## Deploy links
+
+Task 2.1:
+
+- S3 bucket (public accessible): http://my-first-bucket-application.s3-website-us-east-1.amazonaws.com/
+- CloudFront : https://d3jh13yq8y8jnb.cloudfront.net
+
+Task 2.2:
+
+- S3 bucket (should return 403 Access Denied error): http://my-sdk-built-website-bucket.s3-website-us-east-1.amazonaws.com/
+- CloudFront: https://dumf7oxcx2xzp.cloudfront.net/
