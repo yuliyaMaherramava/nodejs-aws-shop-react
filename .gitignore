@@ -27,3 +27,5 @@ dist-ssr
 
 # CDK asset staging directory
 cdk.out
+
+.env
