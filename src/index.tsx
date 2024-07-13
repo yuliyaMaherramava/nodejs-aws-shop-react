@@ -54,27 +54,3 @@ root.render(
     </BrowserRouter>
   </React.StrictMode>
 );
-
- {
-  "message":"Network Error",
-  "name":"AxiosError",
-  "config":{
-    "transitional":{
-      "silentJSONParsing":true,
-      "forcedJSONParsing":true,
-      "clarifyTimeoutError":false},
-      "transformRequest":[null],
-      "transformResponse":[null],
-      "timeout":0,
-      "xsrfCookieName":"XSRF-TOKEN",
-      "xsrfHeaderName":"X-XSRF-TOKEN",
-      "maxContentLength":-1,
-      "maxBodyLength":-1,
-      "env":{"FormData":null},
-      "headers":{"Accept":"application/json, text/plain, */*"},
-      "method":"get",
-      "url":"https://21de00mzo2.execute-api.us-east-1.amazonaws.com/prod/import",
-      "params":{"name":"filill.csv"}},
-      "code":"ERR_NETWORK",
-      "status":null
-    }
